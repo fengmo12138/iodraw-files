@@ -154,10 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d49ILvjtbK7Ff1G3tmVA-21" value="更新数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="165" y="350" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="d49ILvjtbK7Ff1G3tmVA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d49ILvjtbK7Ff1G3tmVA-21" target="d49ILvjtbK7Ff1G3tmVA-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="150" y="350" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
