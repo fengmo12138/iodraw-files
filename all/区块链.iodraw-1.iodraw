@@ -32,8 +32,9 @@
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-16" value="奖励积分查询模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="f_zZQnL7-xKUVSmzfHCC-13" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d49ILvjtbK7Ff1G3tmVA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="f_zZQnL7-xKUVSmzfHCC-23" target="f_zZQnL7-xKUVSmzfHCC-46">
+        <mxCell id="d49ILvjtbK7Ff1G3tmVA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" target="f_zZQnL7-xKUVSmzfHCC-46">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="390" y="370" />
               <mxPoint x="390" y="370" />
