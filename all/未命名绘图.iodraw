@@ -79,7 +79,7 @@
           <mxGeometry x="380" y="760" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-36" value="科研与药企" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="500" y="280" width="170" height="90" as="geometry">
+          <mxGeometry x="300" y="270" width="170" height="90" as="geometry">
             <mxRectangle x="110" y="420" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
