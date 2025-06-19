@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f_zZQnL7-xKUVSmzfHCC-1" value="用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=黑体;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="410" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-8" value="&lt;b&gt;健康数据管理&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="140" height="120" as="geometry">
             <mxRectangle x="110" y="420" width="60" height="30" as="alternateBounds" />
