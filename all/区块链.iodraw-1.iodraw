@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d49ILvjtbK7Ff1G3tmVA-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="420" width="720" height="260" as="geometry" />
+          <mxGeometry x="60" y="410" width="670" height="270" as="geometry" />
         </mxCell>
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-8" value="&lt;b&gt;健康数据管理&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="80" y="445" width="140" height="120" as="geometry">
