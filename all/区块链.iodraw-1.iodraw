@@ -119,10 +119,10 @@
         <mxCell id="d49ILvjtbK7Ff1G3tmVA-7" value="数据输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="528" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d49ILvjtbK7Ff1G3tmVA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1">
+        <mxCell id="d49ILvjtbK7Ff1G3tmVA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;entryX=0.52;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="f_zZQnL7-xKUVSmzfHCC-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="470" as="sourcePoint" />
-            <mxPoint x="570" y="470" as="targetPoint" />
+            <mxPoint x="150" y="550" as="sourcePoint" />
+            <mxPoint x="250" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
