@@ -81,6 +81,9 @@
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-34" value="存款模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="80" y="290" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="d49ILvjtbK7Ff1G3tmVA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_zZQnL7-xKUVSmzfHCC-35" target="f_zZQnL7-xKUVSmzfHCC-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-35" value="合约余额查询模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="140" height="30" as="geometry" />
         </mxCell>
@@ -115,7 +118,7 @@
           <mxGeometry x="-20" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-49" value="管理员" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="225" width="80" height="80" as="geometry" />
+          <mxGeometry x="-50" y="225" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="d49ILvjtbK7Ff1G3tmVA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="f_zZQnL7-xKUVSmzfHCC-25">
           <mxGeometry relative="1" as="geometry">
