@@ -78,8 +78,8 @@
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-35" value="合约余额查询模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="380" y="760" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f_zZQnL7-xKUVSmzfHCC-36" value="奖励机制" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="210" y="560" width="140" height="120" as="geometry">
+        <mxCell id="f_zZQnL7-xKUVSmzfHCC-36" value="科研与药企" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="140" height="120" as="geometry">
             <mxRectangle x="110" y="420" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
