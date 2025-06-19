@@ -72,8 +72,11 @@
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-33" value="修饰符模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="380" y="700" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f_zZQnL7-xKUVSmzfHCC-34" value="状态变量模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="f_zZQnL7-xKUVSmzfHCC-34" value="存款模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="380" y="730" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_zZQnL7-xKUVSmzfHCC-35" value="状态变量模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="420" y="680" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
