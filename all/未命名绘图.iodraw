@@ -89,7 +89,7 @@
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-38" value="临床试验匹配模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" vertex="1" parent="f_zZQnL7-xKUVSmzfHCC-36">
           <mxGeometry y="60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f_zZQnL7-xKUVSmzfHCC-40" value="&lt;b&gt;数据授权与共享模块&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="f_zZQnL7-xKUVSmzfHCC-40" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="530" y="330" width="140" height="60" as="geometry">
             <mxRectangle x="110" y="420" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -97,8 +97,8 @@
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-43" value="&lt;b&gt;动态数字孪生更新模块&lt;/b&gt;" style="text;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="530" y="420" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f_zZQnL7-xKUVSmzfHCC-46" value="&lt;b&gt;动态数字孪生更新模块&lt;/b&gt;" style="text;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="540" y="430" width="140" height="30" as="geometry" />
+        <mxCell id="f_zZQnL7-xKUVSmzfHCC-46" value="&lt;b&gt;数据授权与共享模块&lt;/b&gt;" style="text;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
