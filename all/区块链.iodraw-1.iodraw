@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="-gVKak1kJaw0h93I0aSS">
-    <mxGraphModel dx="1508" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1814" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,13 +34,6 @@
         </mxCell>
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-16" value="奖励积分查询模块" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="f_zZQnL7-xKUVSmzfHCC-13" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="d49ILvjtbK7Ff1G3tmVA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="f_zZQnL7-xKUVSmzfHCC-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="390" as="sourcePoint" />
-            <mxPoint x="390" y="350" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="f_zZQnL7-xKUVSmzfHCC-23" value="&lt;b&gt;数据授权与共享&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="320" y="430" width="140" height="120" as="geometry">
@@ -156,6 +149,19 @@
         </mxCell>
         <mxCell id="d49ILvjtbK7Ff1G3tmVA-21" value="数据处理支撑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d49ILvjtbK7Ff1G3tmVA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="f_zZQnL7-xKUVSmzfHCC-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="390" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d49ILvjtbK7Ff1G3tmVA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="515" as="sourcePoint" />
+            <mxPoint x="330" y="515" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
