@@ -55,13 +55,8 @@
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-18" value="被解释变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="920" y="251" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4P-M1sZ3n6UI4gQj6as9-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="195.16666666666674" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-19" value="中介变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="385" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="337.5" y="210" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
