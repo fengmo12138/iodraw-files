@@ -41,16 +41,16 @@
           <mxGeometry x="290" y="281" width="150" height="27" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="550" y="-18" width="280" height="279" as="geometry" />
+          <mxGeometry x="840" y="-79" width="280" height="279" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-13" value="预测模型&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;EBM&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;XGBoost&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="570" y="33" width="100" height="188" as="geometry" />
+          <mxGeometry x="860" y="-28" width="100" height="188" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-14" value="解释工具&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;SHAP(全局)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;LIME(局部)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="712.5" y="33" width="100" height="188" as="geometry" />
+          <mxGeometry x="1002.5" y="-28" width="100" height="188" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-15" value="可解释机器学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="622.5" y="-69" width="135" height="30" as="geometry" />
+          <mxGeometry x="912.5" y="-130" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-16" value="&lt;b&gt;组织韧性&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;（综合指数）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="610" y="336.25" width="120" height="128.5" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-19" value="中介变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="210" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tZIJIlvcUQvGljHZz1lg-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;width=20.754716981132077;endSize=6.758490566037736;endWidth=33.99786400854397;" edge="1" parent="1" target="4P-M1sZ3n6UI4gQj6as9-16">
+        <mxCell id="tZIJIlvcUQvGljHZz1lg-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=20.754716981132077;endSize=6.758490566037736;endWidth=33.99786400854397;" edge="1" parent="1" source="4P-M1sZ3n6UI4gQj6as9-7" target="4P-M1sZ3n6UI4gQj6as9-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="400.0510000000001" as="sourcePoint" />
             <mxPoint x="610" y="400.05" as="targetPoint" />
