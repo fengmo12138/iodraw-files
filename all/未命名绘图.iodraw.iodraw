@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tZIJIlvcUQvGljHZz1lg-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;width=20.754716981132077;endSize=6.758490566037736;endWidth=33.99786400854397;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200.00000000000003" y="400.2810000000001" as="sourcePoint" />
+            <mxPoint x="280" y="400.28000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="50" y="261" width="170" height="279" as="geometry" />
         </mxCell>
@@ -57,12 +63,6 @@
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-19" value="中介变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="210" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tZIJIlvcUQvGljHZz1lg-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;width=20.754716981132077;endSize=6.758490566037736;endWidth=33.99786400854397;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200.00000000000003" y="400.2810000000001" as="sourcePoint" />
-            <mxPoint x="280" y="400.28000000000003" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
