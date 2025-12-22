@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-2" value="&#xa;&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;投资结构配置&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-3" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资战略导向&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-4" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资结构配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
