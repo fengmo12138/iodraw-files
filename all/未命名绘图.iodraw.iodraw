@@ -4,58 +4,58 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="30" y="261" width="210" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-3" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资战略导向&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-3" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资战略导向&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="281" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-4" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资结构配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-4" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资结构配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="351" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-5" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资收益质量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-5" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资收益质量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="421" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-6" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;企业投资决策特征&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-6" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;企业投资决策特征&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="331" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="310" y="261" width="210" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-8" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;技术感知能力&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-8" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;技术感知能力&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="281" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-9" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;知识整合能力&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-9" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;知识整合能力&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="351" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-10" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;资源重构能力&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-10" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;资源重构能力&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="421" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Open-Sans, sans-serif&quot; color=&quot;#2e2f33&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;动态能力&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-11" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Open-Sans, sans-serif&quot; color=&quot;#2e2f33&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;动态能力&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="331" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="565" y="220" width="280" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-13" value="预测模型:&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;EBM&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;XGBoost&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-13" value="预测模型:&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;EBM&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;XGBoost&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="600" y="322" width="105" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-14" value="解释工具:&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;SHAP(全局)&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;LIME(局部)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-14" value="解释工具:&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;SHAP(全局)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;LIME(局部)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="730" y="326.5" width="110" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-15" value="可解释机器学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-15" value="可解释机器学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="261" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-16" value="组织韧性&lt;div style=&quot;font-size: 14px;&quot;&gt;（综合指数）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-16" value="组织韧性&lt;div style=&quot;font-size: 16px;&quot;&gt;（综合指数）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="900" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-17" value="解释变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="110" y="190" width="60" height="30" as="geometry" />
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-17" value="解释变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-18" value="被解释变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-18" value="被解释变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="920" y="251" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4P-M1sZ3n6UI4gQj6as9-19" value="中介变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4P-M1sZ3n6UI4gQj6as9-19" value="中介变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="385" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
