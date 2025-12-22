@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tZIJIlvcUQvGljHZz1lg-11" value="&lt;span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font&gt;个体变量特征&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="484.5" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="484.5" y="455.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tZIJIlvcUQvGljHZz1lg-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tZIJIlvcUQvGljHZz1lg-18" target="4P-M1sZ3n6UI4gQj6as9-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -110,7 +110,7 @@
           <mxGeometry x="180" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tZIJIlvcUQvGljHZz1lg-23" value="H3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="552" y="464.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
