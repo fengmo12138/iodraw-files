@@ -53,7 +53,7 @@
           <mxGeometry x="580" y="261" width="88" height="118" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-15" value="可解释机器学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=黑体;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="517" y="210" width="135" height="30" as="geometry" />
+          <mxGeometry x="500" y="210" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-16" value="&lt;b&gt;组织韧性&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;（综合指数）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="730" y="336.25" width="120" height="128.5" as="geometry" />
