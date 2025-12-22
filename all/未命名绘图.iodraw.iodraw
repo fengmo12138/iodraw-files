@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="TL1kzV1-qKNHWurOja17">
-    <mxGraphModel dx="627" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="908" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,16 +35,16 @@
           <mxGeometry x="290" y="325" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="229" width="280" height="310" as="geometry" />
+          <mxGeometry x="520" y="226" width="280" height="310" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-13" value="预测模型:&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;EBM&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;XGBoost&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="555" y="331" width="105" height="109" as="geometry" />
+          <mxGeometry x="555" y="328" width="105" height="109" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-14" value="解释工具:&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;SHAP(全局)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;LIME(局部)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="685" y="335.5" width="110" height="109" as="geometry" />
+          <mxGeometry x="685" y="332.5" width="110" height="109" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-15" value="可解释机器学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="595" y="270" width="100" height="30" as="geometry" />
+          <mxGeometry x="595" y="267" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-16" value="组织韧性&lt;div style=&quot;font-size: 16px;&quot;&gt;（综合指数）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="900" y="354" width="120" height="60" as="geometry" />
