@@ -58,10 +58,10 @@
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-19" value="中介变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="210" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tZIJIlvcUQvGljHZz1lg-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.012;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.988;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4P-M1sZ3n6UI4gQj6as9-2" target="4P-M1sZ3n6UI4gQj6as9-7">
+        <mxCell id="tZIJIlvcUQvGljHZz1lg-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="414" as="sourcePoint" />
-            <mxPoint x="270" y="364" as="targetPoint" />
+            <mxPoint x="220.00000000000003" y="390.0010000000001" as="sourcePoint" />
+            <mxPoint x="281" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
