@@ -94,9 +94,9 @@
         <mxCell id="tZIJIlvcUQvGljHZz1lg-11" value="&lt;span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font&gt;个体变量特征&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;H3&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tZIJIlvcUQvGljHZz1lg-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.023;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="4P-M1sZ3n6UI4gQj6as9-16">
+        <mxCell id="tZIJIlvcUQvGljHZz1lg-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="4P-M1sZ3n6UI4gQj6as9-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-29.999999999999915" y="389.9960000000001" as="sourcePoint" />
+            <mxPoint x="-80" y="390" as="sourcePoint" />
             <mxPoint x="744.09" y="461.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="51.09" y="626.75" />
