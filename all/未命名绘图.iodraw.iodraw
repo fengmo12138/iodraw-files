@@ -67,8 +67,8 @@
             <mxPoint x="610" y="400.05" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZIJIlvcUQvGljHZz1lg-3" value="可解释机器学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="527" y="220" width="135" height="30" as="geometry" />
+        <mxCell id="tZIJIlvcUQvGljHZz1lg-3" value="揭示影响机制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="517" y="414" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
