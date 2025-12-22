@@ -38,7 +38,7 @@
           <mxGeometry x="520" y="226" width="280" height="310" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-13" value="预测模型:&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;EBM&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;XGBoost&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="555" y="328" width="105" height="109" as="geometry" />
+          <mxGeometry x="532" y="312" width="105" height="188" as="geometry" />
         </mxCell>
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-14" value="解释工具:&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;SHAP(全局)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;+&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;LIME(局部)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="685" y="332.5" width="110" height="109" as="geometry" />
