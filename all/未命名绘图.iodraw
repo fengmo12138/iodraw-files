@@ -58,6 +58,12 @@
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-19" value="中介变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="210" width="95" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dd5c0KiP-ypEJP32OsJu-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="620" as="sourcePoint" />
+            <mxPoint x="120" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
