@@ -109,6 +109,9 @@
         <mxCell id="dd5c0KiP-ypEJP32OsJu-14" value="H1c" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-40" y="500" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dd5c0KiP-ypEJP32OsJu-15" value="被解释变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="805" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
