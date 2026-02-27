@@ -72,8 +72,8 @@
         </mxCell>
         <mxCell id="dd5c0KiP-ypEJP32OsJu-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="400" as="sourcePoint" />
-            <mxPoint x="490" y="350" as="targetPoint" />
+            <mxPoint x="520" y="800" as="sourcePoint" />
+            <mxPoint x="570" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
