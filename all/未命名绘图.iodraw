@@ -58,7 +58,7 @@
         <mxCell id="4P-M1sZ3n6UI4gQj6as9-19" value="中介变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="210" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dd5c0KiP-ypEJP32OsJu-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=26.315789473684212;endSize=6.11578947368421;" edge="1" parent="1" source="4P-M1sZ3n6UI4gQj6as9-2">
+        <mxCell id="dd5c0KiP-ypEJP32OsJu-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=26.315789473684212;endSize=5.941463414634146;width=12.439024390243903;" edge="1" parent="1" source="4P-M1sZ3n6UI4gQj6as9-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="425.05" as="sourcePoint" />
             <mxPoint x="280" y="425.05" as="targetPoint" />
