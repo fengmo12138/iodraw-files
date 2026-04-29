@@ -105,7 +105,7 @@
           <mxGeometry x="454.75" y="438.25" width="188.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XMC-8PmeNraLDHzSnEL7-25" value="&lt;div&gt;&lt;b&gt;Logit回归模型&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="530" y="468.25" width="150" height="70" as="geometry" />
+          <mxGeometry x="474" y="468" width="150" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
