@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XMC-8PmeNraLDHzSnEL7-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="530" y="323.25" width="240" height="126.75" as="geometry" />
+        </mxCell>
         <mxCell id="dd5c0KiP-ypEJP32OsJu-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=15.28048780487805;endSize=5.45;width=12.439024390243903;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="690" as="sourcePoint" />
@@ -78,9 +81,6 @@
         </mxCell>
         <mxCell id="XMC-8PmeNraLDHzSnEL7-1" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资领域结构&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="144.5" y="468" width="145" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XMC-8PmeNraLDHzSnEL7-7" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资效率&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="530" y="323.25" width="240" height="126.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
