@@ -79,6 +79,9 @@
         <mxCell id="XMC-8PmeNraLDHzSnEL7-1" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资领域结构&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="144.5" y="468" width="145" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XMC-8PmeNraLDHzSnEL7-7" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;投资效率&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="530" y="323.25" width="240" height="126.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
