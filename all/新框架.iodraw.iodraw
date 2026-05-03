@@ -92,7 +92,10 @@
           <mxGeometry x="345.5" y="325.75" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zDt8rR0nG4BnZvn5-Ap3-7" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&#xa;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;动态能力锻造&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="420" width="130" height="40" as="geometry" />
+          <mxGeometry x="643.25" y="530" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-8" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;资源积累与财务缓冲&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="335.75" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
