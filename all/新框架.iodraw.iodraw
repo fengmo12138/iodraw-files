@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="TL1kzV1-qKNHWurOja17">
-    <mxGraphModel dx="811" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,13 +106,13 @@
         <mxCell id="zDt8rR0nG4BnZvn5-Ap3-11" value="理论基础" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="491" y="540" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-13" value="&lt;b&gt;&lt;span style=&quot;font-family: 黑体; font-size: 12pt;&quot;&gt;资源基础理论&lt;/span&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="160" y="570" width="230" height="40" as="geometry" />
+        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-13" value="&lt;span&gt;&lt;span style=&quot;font-family: 黑体; font-size: 12pt;&quot;&gt;资源基础理论&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-14" value="&lt;b&gt;&lt;span style=&quot;font-family: 黑体; font-size: 12pt;&quot;&gt;动态能力理论&lt;/span&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-14" value="&lt;span&gt;&lt;span style=&quot;font-family: 黑体; font-size: 12pt;&quot;&gt;动态能力理论&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="426" y="570" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-15" value="&lt;b&gt;&lt;span style=&quot;font-family: 黑体; font-size: 12pt;&quot;&gt;资源依赖理论&lt;/span&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-15" value="&lt;span&gt;&lt;span style=&quot;font-family: 黑体; font-size: 12pt;&quot;&gt;资源依赖理论&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="690" y="570" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
