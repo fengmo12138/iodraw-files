@@ -100,6 +100,9 @@
         <mxCell id="zDt8rR0nG4BnZvn5-Ap3-10" value="传导路径" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="385.5" y="210" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-11" value="解释变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="177" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
