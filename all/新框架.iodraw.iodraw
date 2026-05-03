@@ -97,6 +97,9 @@
         <mxCell id="zDt8rR0nG4BnZvn5-Ap3-9" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;外部依赖优化&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="345.5" y="458" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-10" value="研究方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="642" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
