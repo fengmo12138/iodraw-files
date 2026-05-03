@@ -95,7 +95,10 @@
           <mxGeometry x="643.25" y="530" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zDt8rR0nG4BnZvn5-Ap3-8" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;资源积累与财务缓冲&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="355.5" y="335.75" width="180" height="40" as="geometry" />
+          <mxGeometry x="345.5" y="408" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-9" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;资源积累与财务缓冲&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="458" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
