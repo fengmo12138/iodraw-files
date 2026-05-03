@@ -94,7 +94,7 @@
         <mxCell id="zDt8rR0nG4BnZvn5-Ap3-8" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;动态能力锻造&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="345.5" y="403" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-9" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;资源积累与财务缓冲&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="zDt8rR0nG4BnZvn5-Ap3-9" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;外部依赖优化&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="345.5" y="458" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
