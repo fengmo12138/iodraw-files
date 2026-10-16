@@ -118,12 +118,6 @@
         <mxCell id="HegkpS3F87y9HcswjUfO-28" value="S&lt;font style=&quot;font-size: 9px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="804" y="158" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HegkpS3F87y9HcswjUfO-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="150" as="sourcePoint" />
-            <mxPoint x="790" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HegkpS3F87y9HcswjUfO-30" value="0.7S&lt;font style=&quot;font-size: 9px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="761.5" y="158" width="50" height="30" as="geometry" />
         </mxCell>
@@ -137,6 +131,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="280" as="sourcePoint" />
             <mxPoint x="790" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HegkpS3F87y9HcswjUfO-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="140" as="sourcePoint" />
+            <mxPoint x="740" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
